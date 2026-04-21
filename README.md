@@ -40,30 +40,47 @@
 </p>
 
 ---
+### ✨ Core Strengths
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Agile-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Feature Driven %20Architecture-52?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BLoC%20State%20Management-0175C2?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+### 🤖 AI & Data Focus
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange" />
+  <img src="https://img.shields.io/badge/RFM%20Segmentation-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CRM%20Analysis-1D4ED8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-059669?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-DB2777?style=for-the-badge" />
+</p>
+
+---
 ### 🏗️ Commercial Portfolio
 
-#### 🏆 S-Hub (S-Plate) — UAE Car, Plate & Number Marketplace
-- **Role:** Technical Lead
-- **Overview:** A premium marketplace for buying and selling car plates, bike plates, and mobile phone numbers with advanced category filters[cite: 62, 63].
-- [cite_start]**Tech:** Flutter, Firebase, BLoC, Clean Architecture, CI/CD[cite: 50, 63].
-- **Impact:** ![Downloads](https://img.shields.io/badge/Downloads-10K%2B-orange?style=flat-square&logo=googleplay)
-- [cite_start][![App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/it/app/s-plate/id6455378185?l=en-GB) [cite: 63] [cite_start][![Google Play](https://img.shields.io/badge/Google_Play-410099?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.metagate.sphub) [cite: 64]
+#### 🏆 S-Hub (S-Plate) — UAE Car, Plate & Number Marketplace ![Downloads](https://img.shields.io/badge/Downloads-10K%2B-orange?style=flat-square&logo=googleplay)
+- **Overview:** A premium marketplace for buying and selling car plates, bike plates, and mobile phone numbers with advanced category filters.
+- **Tech:** Flutter, Firebase, BLoC, Clean Architecture, CI/CD , Stripe.
 
-#### 🍲 Vietnamese Foodies — UAE Restaurant Series
-- [cite_start]**Overview:** Real-time ordering application for a multi-branch restaurant series featuring QR table scanning and live rewards[cite: 34, 58].
-- [cite_start]**Tech:** Flutter, Google ML Kit, Firebase[cite: 33, 58].
-- [cite_start][![App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/vietnamese-foodies/id6736652713) [cite: 60] [cite_start][![Google Play](https://img.shields.io/badge/Google_Play-410099?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.vf.vietnamesefoodies) [cite: 59]
+ [![App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/it/app/s-plate/id6455378185?l=en-GB) [![Google Play](https://img.shields.io/badge/Google_Play-410099?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.metagate.sphub)
 
-#### 🏘️ Yemnzil — Cars & Properties Marketplace
-- [cite_start]**Overview:** A specialized platform connecting buyers and sellers for vehicles and real estate in Yemen[cite: 65].
-- [cite_start]**Tech:** Flutter, Firebase Realtime Database, Stripe[cite: 51, 65].
-- **Impact:** ![Downloads](https://img.shields.io/badge/Downloads-10K%2B-orange?style=flat-square&logo=googleplay)
-- [cite_start][![Google Play](https://img.shields.io/badge/Google_Play-410099?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.metagate.yemnzil) [cite: 65]
+#### 🏘️ Yemnzil — Cars & Properties Marketplace ![Downloads](https://img.shields.io/badge/Downloads-10K%2B-orange?style=flat-square&logo=googleplay)
+- **Overview:** A specialized platform connecting buyers and sellers for vehicles and real estate in Yemen.
+- **Tech:** Flutter, Firebase, BLoC, Clean Architecture, CI/CD , Stripe.
+
+[![Google Play](https://img.shields.io/badge/Google_Play-410099?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.metagate.yemnzil)
 
 #### 🛡️ Sanctuary NL — Spa Booking Platform
-- [cite_start]**Overview:** Booking platform for spa centers across the Netherlands with a clean service-focused web experience[cite: 55, 56].
-- **Tech:** React, TypeScript, Feature-Driven Design.
-- [cite_start][![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanctuarys.nl) [cite: 57]
+- **Overview:** Booking platform for spa centers across the Netherlands with a clean service-focused web experience.
+- **Tech:** Wordpress.
+ 
+ [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanctuarys.nl)
 
 ---
 
@@ -72,17 +89,18 @@
 #### 🎮 The Data Mystery — GDPR by Gamification
 - **Overview:** Educational card game simplifying GDPR Article 9 through interactive, lawful data-processing scenarios.
 - **Tech:** React, TypeScript, Vite, Tailwind CSS.
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emelian-chkaira/The-Data-Mystery-GDPR-by-Gamification) [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://the-data-mystery.vercel.app/)
+ 
+ [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emelian-chkaira/The-Data-Mystery-GDPR-by-Gamification) [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://the-data-mystery.vercel.app/)
 
 #### 🌿 ESG Guardian — ESG Compliance Analysis
 - **Overview:** Browser-based platform validating ESG disclosures in sustainability reports using rule-based checks.
 - **Tech:** React, TypeScript, pdfjs-dist, Tailwind CSS.
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emelian-chkaira/ESG-Guardian-Analysis-Website) [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://esg-guardian.vercel.app/)
+ 
+ [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emelian-chkaira/ESG-Guardian-Analysis-Website) [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://esg-guardian.vercel.app/)
 
 #### 📊 Transactional Behavior & RFM Analysis
 - **Overview:** Customer segmentation and KPI analysis using transactional data for business insights.
 - **Tech:** Python, SQL, analytics workflows.
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=emelian-chkaira&label=Profile%20views&color=0e75b6&style=flat-square" alt="emelian-chkaira" />
-</p>
+</p> -->
