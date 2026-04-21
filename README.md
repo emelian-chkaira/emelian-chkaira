@@ -7,18 +7,18 @@
 </p>
 
 ## 🚀 Senior Mobile Engineer | 📊 Data Science Master’s Student
-[cite_start]**Bridging the gap between high-performance mobile architectures and intelligent data-driven insights.** 
+**Bridging the gap between high-performance mobile architectures and intelligent data-driven insights.** 
 
 ---
 
 ### 🧠 AI & Data Science Focus
-- [cite_start]🧪 **Research:** Currently exploring **Clustering**, **Predictive Modeling**, and **Machine Learning** methodologies through my Master's at the University of Parma. 
-- [cite_start]📈 **Analytics:** Leveraging **Python** and **SQL** to perform RFM segmentation and customer behavior analysis. 
-- [cite_start]🤖 **Goal:** Developing AI-powered applications that solve real-world business challenges. 
+- 🧪 **Research:** Currently exploring **Clustering**, **Predictive Modeling**, and **Machine Learning** methodologies through my Master's at the University of Parma. 
+- 📈 **Analytics:** Leveraging **Python** and **SQL** to perform RFM segmentation and customer behavior analysis. 
+- 🤖 **Goal:** Developing AI-powered applications that solve real-world business challenges. 
 
 ### 📱 Engineering Specialization
-- [cite_start]⚡ **Mobile Architecture:** Senior expert in **Flutter** and **Dart**, specializing in **BLoC**, **Clean Architecture**, and **Feature-Driven Design**. 
-- [cite_start]🌐 **Web Ecosystem:** Building modern, scalable web applications using **React** and **TypeScript**. 
+- ⚡ **Mobile Architecture:** Senior expert in **Flutter** and **Dart**, specializing in **BLoC**, **Clean Architecture**, and **Feature-Driven Design**. 
+- 🌐 **Web Ecosystem:** Building modern, scalable web applications using **React** and **TypeScript**. 
 
 ---
 
@@ -40,41 +40,48 @@
 </p>
 
 ---
-
 ### 🏗️ Commercial Portfolio
 
-#### 🏆 S-Plate — UAE Car & Plate Marketplace
-- [cite_start]**Role:** Technical Lead. 
-- [cite_start]**Impact:** Developed a luxury marketplace platform that achieved **10,000+ downloads** across iOS and Android. 
-- [cite_start]**Tech:** Flutter, Firebase, BLoC, Clean Architecture, CI/CD. 
+#### 🏆 S-Hub (S-Plate) — UAE Car, Plate & Number Marketplace
+- **Role:** Technical Lead
+- **Overview:** A premium marketplace for buying and selling car plates, bike plates, and mobile phone numbers with advanced category filters[cite: 62, 63].
+- [cite_start]**Tech:** Flutter, Firebase, BLoC, Clean Architecture, CI/CD[cite: 50, 63].
+- **Impact:** ![Downloads](https://img.shields.io/badge/Downloads-10K%2B-orange?style=flat-square&logo=googleplay)
+- [cite_start][![App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/it/app/s-plate/id6455378185?l=en-GB) [cite: 63] [cite_start][![Google Play](https://img.shields.io/badge/Google_Play-410099?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.metagate.sphub) [cite: 64]
 
-#### 🏘️ Yemnzil — Real Estate & Auto Platform
-- [cite_start]**Overview:** A comprehensive marketplace for property and vehicle listings in Yemen. 
-- [cite_start]**Tech:** Flutter, Firebase Real-time Database, Stripe integration for secure payments. 
+#### 🍲 Vietnamese Foodies — UAE Restaurant Series
+- [cite_start]**Overview:** Real-time ordering application for a multi-branch restaurant series featuring QR table scanning and live rewards[cite: 34, 58].
+- [cite_start]**Tech:** Flutter, Google ML Kit, Firebase[cite: 33, 58].
+- [cite_start][![App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/vietnamese-foodies/id6736652713) [cite: 60] [cite_start][![Google Play](https://img.shields.io/badge/Google_Play-410099?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.vf.vietnamesefoodies) [cite: 59]
 
-#### 🛡️ Sanctuary Website
-- [cite_start]**Overview:** A high-performance web platform focused on secure architecture and scalable user interfaces. 
-- [cite_start]**Tech:** React, TypeScript, and Feature-Driven Design. 
+#### 🏘️ Yemnzil — Cars & Properties Marketplace
+- [cite_start]**Overview:** A specialized platform connecting buyers and sellers for vehicles and real estate in Yemen[cite: 65].
+- [cite_start]**Tech:** Flutter, Firebase Realtime Database, Stripe[cite: 51, 65].
+- **Impact:** ![Downloads](https://img.shields.io/badge/Downloads-10K%2B-orange?style=flat-square&logo=googleplay)
+- [cite_start][![Google Play](https://img.shields.io/badge/Google_Play-410099?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.metagate.yemnzil) [cite: 65]
+
+#### 🛡️ Sanctuary NL — Spa Booking Platform
+- [cite_start]**Overview:** Booking platform for spa centers across the Netherlands with a clean service-focused web experience[cite: 55, 56].
+- **Tech:** React, TypeScript, Feature-Driven Design.
+- [cite_start][![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanctuarys.nl) [cite: 57]
 
 ---
 
 ### 🔬 AI & Research Projects
 
+#### 🎮 The Data Mystery — GDPR by Gamification
+- **Overview:** Educational card game simplifying GDPR Article 9 through interactive, lawful data-processing scenarios.
+- **Tech:** React, TypeScript, Vite, Tailwind CSS.
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emelian-chkaira/The-Data-Mystery-GDPR-by-Gamification) [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://the-data-mystery.vercel.app/)
+
+#### 🌿 ESG Guardian — ESG Compliance Analysis
+- **Overview:** Browser-based platform validating ESG disclosures in sustainability reports using rule-based checks.
+- **Tech:** React, TypeScript, pdfjs-dist, Tailwind CSS.
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emelian-chkaira/ESG-Guardian-Analysis-Website) [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://esg-guardian.vercel.app/)
+
 #### 📊 Transactional Behavior & RFM Analysis
-- [cite_start]**Focus:** Performed customer segmentation and KPI analysis using transactional records to optimize business strategy. 
-
-#### 🌿 ESG (Environmental, Social, and Governance) Analysis
-- [cite_start]**Focus:** Data-driven research into sustainability metrics and corporate governance standards to assess organizational impact. 
-
-#### 🤖 NLP Event Planning System
-- [cite_start]**Impact:** Developed a high-performance system utilizing **Natural Language Processing** for automated organization and scheduling. 
-
-#### 🎮 Mesty Game
-- [cite_start]**Overview:** An interactive mobile gaming experience focusing on optimized performance and engaging mechanics. 
-
----
-
-- Longest Streak: - Total Contributions: -->
+- **Overview:** Customer segmentation and KPI analysis using transactional data for business insights.
+- **Tech:** Python, SQL, analytics workflows.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=emelian-chkaira&label=Profile%20views&color=0e75b6&style=flat-square" alt="emelian-chkaira" />
