@@ -1,9 +1,21 @@
 # Hi 👋, I'm Emelian Chkaira
 
 <p align="left">
-<a href="https://linkedin.com/in/emelianchkaira" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/emelian-chkaira" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:emelianchkaira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/emelianchkaira" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/emelian-chkaira" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:emelianchkaira@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-B91C1C?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://drive.google.com/file/d/1vFXgTsq_EAidw-Y_tRXFW3E4RlGgy4r2/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/CV-C2410C?style=for-the-badge&logo=readme&logoColor=white" alt="CV" />
+  </a>
+  <a href="https://drive.google.com/file/d/1Qi1OPAytFLLgxsQg-d86gRbhkiNNwGVV/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Oxford English Test-1D4ED8?style=for-the-badge&logo=googledrive&logoColor=white" alt="Oxford English Test" />
+  </a>
 </p>
 
 ## 🚀 Senior Mobile Engineer | 📊 Data Science Master’s Student
@@ -68,7 +80,7 @@
 - **Overview:** A premium marketplace for buying and selling car plates, bike plates, and mobile phone numbers with advanced category filters.
 - **Tech:** Flutter, Firebase, BLoC, Clean Architecture, CI/CD , Stripe.
 
- [![App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/it/app/s-plate/id6455378185?l=en-GB) [![Google Play](https://img.shields.io/badge/Google_Play-410099?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.metagate.sphub)
+ [![App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](apps.apple.com/it/app/s-plate/id6455378185?l=en-GB) [![Google Play](https://img.shields.io/badge/Google_Play-410099?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.metagate.splate.splate&pli=1)
 
 #### 🏘️ Yemnzil — Cars & Properties Marketplace ![Downloads](https://img.shields.io/badge/Downloads-10K%2B-orange?style=flat-square&logo=googleplay)
 - **Overview:** A specialized platform connecting buyers and sellers for vehicles and real estate in Yemen.
@@ -90,13 +102,15 @@
 - **Overview:** Educational card game simplifying GDPR Article 9 through interactive, lawful data-processing scenarios.
 - **Tech:** React, TypeScript, Vite, Tailwind CSS.
  
- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emelian-chkaira/The-Data-Mystery-GDPR-by-Gamification) [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://the-data-mystery.vercel.app/)
+ [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://candid-valkyrie-10dcc5.netlify.app) [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://the-data-mystery.vercel.app/)
 
 #### 🌿 ESG Guardian — ESG Compliance Analysis
 - **Overview:** Browser-based platform validating ESG disclosures in sustainability reports using rule-based checks.
 - **Tech:** React, TypeScript, pdfjs-dist, Tailwind CSS.
  
- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emelian-chkaira/ESG-Guardian-Analysis-Website) [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://esg-guardian.vercel.app/)
+ [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emelian-chkaira/ESG-Guardian-Analysis-Website) [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://papaya-bublanina-0721f3.netlify.app)
+
+ 
 
 #### 📊 Transactional Behavior & RFM Analysis
 - **Overview:** Customer segmentation and KPI analysis using transactional data for business insights.
