@@ -102,7 +102,7 @@
 - **Overview:** Educational card game simplifying GDPR Article 9 through interactive, lawful data-processing scenarios.
 - **Tech:** React, TypeScript, Vite, Tailwind CSS.
  
- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://candid-valkyrie-10dcc5.netlify.app) [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://the-data-mystery.vercel.app/)
+ [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://candid-valkyrie-10dcc5.netlify.app) [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=google-chrome&logoColor=white)](candid-valkyrie-10dcc5.netlify.app)
 
 #### 🌿 ESG Guardian — ESG Compliance Analysis
 - **Overview:** Browser-based platform validating ESG disclosures in sustainability reports using rule-based checks.
