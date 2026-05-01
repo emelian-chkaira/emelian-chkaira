@@ -88,6 +88,17 @@
 
 [![Google Play](https://img.shields.io/badge/Google_Play-410099?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.metagate.yemnzil)
 
+
+#### 🧑‍💼 HR Portals — Employee Attendance Management
+- **Overview:** Complete HR solution for tracking employee attendance with smart clock in/out, leave management, overtime monitoring, and real-time push notifications. Supports multi-organization setups and remote teams. Integrated with physical hand punch machines for automatic entry/exit tracking.
+- **Tech:** Flutter · Firebase · BLoC · Push Notifications · Clean Architecture
+
+[![Google Play](https://img.shields.io/badge/Google_Play-410099?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.hr_portals.hr_portal&hl=en)
+
+> 🔑 Test credentials — Username: `#ST*eshemp` · Password: `Eshemp@123`
+
+
+
 #### 🛡️ Sanctuary NL — Spa Booking Platform
 - **Overview:** Booking platform for spa centers across the Netherlands with a clean service-focused web experience.
 - **Tech:** Wordpress.
