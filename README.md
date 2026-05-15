@@ -10,7 +10,7 @@
   <a href="mailto:emelianchkaira@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-B91C1C?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://drive.google.com/file/d/1vFXgTsq_EAidw-Y_tRXFW3E4RlGgy4r2/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1PYwTuFZD-7OBwdc1wkQh5hgu_jyv-oMB/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/CV-C2410C?style=for-the-badge&logo=readme&logoColor=white" alt="CV" />
   </a>
   <a href="https://drive.google.com/file/d/1Qi1OPAytFLLgxsQg-d86gRbhkiNNwGVV/view?usp=sharing" target="_blank">
