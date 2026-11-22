@@ -1,131 +1,93 @@
 # Hi 👋, I'm Emelian Chkaira
 
+**Software Engineer · Flutter & Mobile · AI & Data** — MSc student in Business Analytics at the University of Bologna.
+📍 Bologna, Italy · relocating to the **Netherlands** · 🗣️ Arabic (native), English (B2)
+
 <p align="left">
-  <a href="https://linkedin.com/in/emelianchkaira" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/emelian-chkaira" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:emelianchkaira@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-B91C1C?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://drive.google.com/file/d/1PYwTuFZD-7OBwdc1wkQh5hgu_jyv-oMB/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/CV-C2410C?style=for-the-badge&logo=readme&logoColor=white" alt="CV" />
-  </a>
-  <a href="https://drive.google.com/file/d/1Qi1OPAytFLLgxsQg-d86gRbhkiNNwGVV/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Oxford English Test-1D4ED8?style=for-the-badge&logo=googledrive&logoColor=white" alt="Oxford English Test" />
-  </a>
+  <a href="https://emelianchkaira.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0E7490?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/emelianchkaira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:emelianchkaira@gmail.com"><img src="https://img.shields.io/badge/Gmail-B91C1C?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://drive.google.com/file/d/1PYwTuFZD-7OBwdc1wkQh5hgu_jyv-oMB/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/CV-C2410C?style=for-the-badge&logo=readme&logoColor=white" alt="CV" /></a>
+  <a href="https://drive.google.com/file/d/1Qi1OPAytFLLgxsQg-d86gRbhkiNNwGVV/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Oxford English Test-1D4ED8?style=for-the-badge&logo=googledrive&logoColor=white" alt="Oxford English Test" /></a>
 </p>
 
-## 🚀 Senior Mobile Engineer | 📊 Data Science Master’s Student
-**Bridging the gap between high-performance mobile architectures and intelligent data-driven insights.** 
+Nearly five years of shipping production apps (10K+ users) in **Flutter**, plus **Python / FastAPI / PostgreSQL** and **React / TypeScript** for full-stack and AI work. Open to software engineering roles and internships in the Netherlands.
 
 ---
 
-### 🧠 AI & Data Science Focus
-- 🧪 **Research:** Currently exploring **Clustering**, **Predictive Modeling**, and **Machine Learning** methodologies through my Master's at the University of Parma. 
-- 📈 **Analytics:** Leveraging **Python** and **SQL** to perform RFM segmentation and customer behavior analysis. 
-- 🤖 **Goal:** Developing AI-powered applications that solve real-world business challenges. 
+## ⭐ Featured project
 
-### 📱 Engineering Specialization
-- ⚡ **Mobile Architecture:** Senior expert in **Flutter** and **Dart**, specializing in **BLoC**, **Clean Architecture**, and **Feature-Driven Design**. 
-- 🌐 **Web Ecosystem:** Building modern, scalable web applications using **React** and **TypeScript**. 
+### 🧭 [AI Career Tracker](https://github.com/emelian-chkaira/nl-career-tracker) — open-source job-search platform
+Finds jobs from employer career pages and job boards, ranks them against your profile and CV, tailors the CV per job, and moves your pipeline from your inbox.
+
+- **Hybrid search:** PostgreSQL 16 full-text (`tsvector`) fused with **pgvector HNSW** embeddings (384-d, fastembed ONNX) using Reciprocal Rank Fusion.
+- **Crawler:** 11 ATS adapters, pooled **Playwright** browsers and **JobSpy** boards (LinkedIn, Indeed, Glassdoor, Google Jobs); robots.txt, rate limits and a crawl memory that skips dead links.
+- **AI layer:** provider-agnostic LLM gateway (11 providers incl. Claude, OpenAI, Ollama) for fit scoring, read-only Gmail classification and CV tailoring, guarded by a **fact guard** that rejects invented numbers, employers and skills.
+- **CV Studio:** import PDF / Word / LaTeX, live Tectonic PDF preview, Reactive Resume integration, and reviewable suggestions for missing keywords.
+- **Stack:** FastAPI · SQLAlchemy 2 · Alembic · React 18 · TypeScript · 180+ backend tests.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emelian-chkaira/nl-career-tracker) [![Mobile app](https://img.shields.io/badge/Mobile_app-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/emelian-chkaira/nl-career-tracker-mobile)
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages and tools
 
-<p align="left"> 
-  <strong>Data Science & AI</strong><br>
-  <kbd><img src="https://skillicons.dev/icons?i=py,tensorflow,matlab,mongodb,postgres,mysql&perline=6" /></kbd>
+<p align="left">
+  <strong>Backend, Data & AI</strong><br>
+  <kbd><img src="https://skillicons.dev/icons?i=py,fastapi,postgres,mongodb,mysql,tensorflow,pytorch,matlab&perline=8" /></kbd>
 </p>
-
-<p align="left"> 
+<p align="left">
   <strong>Mobile & Frontend</strong><br>
   <kbd><img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,kotlin,androidstudio&perline=7" /></kbd>
 </p>
-
-<p align="left"> 
+<p align="left">
   <strong>DevOps & Design</strong><br>
-  <kbd><img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,jenkins,figma,postman&perline=7" /></kbd>
+  <kbd><img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,firebase,jenkins,figma,postman&perline=8" /></kbd>
 </p>
 
----
-### ✨ Core Strengths
-
 <p align="left">
-  <img src="https://img.shields.io/badge/Agile-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Clean%20Architecture-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Feature Driven %20Architecture-52?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BLoC%20State%20Management-0175C2?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/BLoC-0175C2?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%2FUX-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-### 🤖 AI & Data Focus
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange" />
-  <img src="https://img.shields.io/badge/RFM%20Segmentation-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CRM%20Analysis-1D4ED8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-059669?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agile-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20%2F%20RAG-059669?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NLP-DB2777?style=for-the-badge" />
 </p>
 
 ---
-### 🏗️ Commercial Portfolio
 
-#### 🏆 S-Hub (S-Plate) — UAE Car, Plate & Number Marketplace ![Downloads](https://img.shields.io/badge/Downloads-10K%2B-orange?style=flat-square&logo=googleplay)
-- **Overview:** A premium marketplace for buying and selling car plates, bike plates, and mobile phone numbers with advanced category filters.
-- **Tech:** Flutter, Firebase, BLoC, Clean Architecture, CI/CD , Stripe.
+## 📱 Shipped products (Flutter)
 
- [![App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](apps.apple.com/it/app/s-plate/id6455378185?l=en-GB) [![Google Play](https://img.shields.io/badge/Google_Play-410099?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.metagate.splate.splate&pli=1)
-
-#### 🏘️ Yemnzil — Cars & Properties Marketplace ![Downloads](https://img.shields.io/badge/Downloads-10K%2B-orange?style=flat-square&logo=googleplay)
-- **Overview:** A specialized platform connecting buyers and sellers for vehicles and real estate in Yemen.
-- **Tech:** Flutter, Firebase, BLoC, Clean Architecture, CI/CD , Stripe.
-
-[![Google Play](https://img.shields.io/badge/Google_Play-410099?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.metagate.yemnzil)
-
-
-#### 🧑‍💼 HR Portals — Employee Attendance Management
-- **Overview:** Complete HR solution for tracking employee attendance with smart clock in/out, leave management, overtime monitoring, and real-time push notifications. Supports multi-organization setups and remote teams. Integrated with physical hand punch machines for automatic entry/exit tracking.
-- **Tech:** Flutter · Firebase · BLoC · Push Notifications · Clean Architecture
-
-[![Google Play](https://img.shields.io/badge/Google_Play-410099?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.hr_portals.hr_portal&hl=en)
-
-> 🔑 Test credentials — Username: `#ST*eshemp` · Password: `Eshemp@123`
-
-
-
-#### 🛡️ Sanctuary NL — Spa Booking Platform
-- **Overview:** Booking platform for spa centers across the Netherlands with a clean service-focused web experience.
-- **Tech:** Wordpress.
- 
- [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanctuarys.nl)
+| App | What it does | Where | Links |
+|---|---|---|---|
+| **Mumayaz** | Car plates & VIP numbers marketplace with a Preview-on-Car feature (Stripe, Apple Pay, Sentry) | UAE · KSA · Jordan | [App Store](https://apps.apple.com/us/app/mumayaz/id6789906640) · [Google Play](https://play.google.com/store/apps/details?id=com.metagate.mumayaz) |
+| **S-Hub** 🏆 `10K+` | Plates & phone numbers marketplace with category and type search (Stripe, Apple Pay, Shorebird) | UAE | [App Store](https://apps.apple.com/us/app/s-hub-marketplace/id6455378185) · [Google Play](https://play.google.com/store/apps/details?id=com.metagate.splate.splate) |
+| **DriveEstate** | Property, cars & premium numbers in one bilingual app (Google Maps, Pusher chat), launched 2026 | UAE | [App Store](https://apps.apple.com/us/app/driveestate/id6786304746) · [Google Play](https://play.google.com/store/apps/details?id=com.metagate.driveestate) |
+| **Car Station** | Car rental with a driver: customer and driver apps (Mapbox, live tracking, MyFatoorah) | UAE | [Customer](https://play.google.com/store/apps/details?id=ae.metagate.carstation.user.car_station) · [Driver](https://play.google.com/store/apps/details?id=ae.metagate.carstation.driver.car_station) |
+| **Yemnzil** `10K+` | Cars & real-estate marketplace with map and search filters | Yemen | [Google Play](https://play.google.com/store/apps/details?id=com.metagate.yemnzil) |
+| **Plat** | Rare plates & VIP numbers with subscriptions, seller meetings and Stripe | UAE | [Google Play](https://play.google.com/store/apps/details?id=com.metagate.plate) |
+| **HR Portals** `1K+` | Attendance, leave and overtime for multi-organisation teams; hand-punch machine sync | Middle East | [Google Play](https://play.google.com/store/apps/details?id=com.hr_portals.hr_portal) |
+| **Sanctuary NL** | Mobile-first spa website with pricing, reviews, map and WhatsApp booking (WordPress) | Netherlands | [sanctuarys.nl](https://sanctuarys.nl) |
 
 ---
 
-### 🔬 AI & Research Projects
+## 🔬 AI & research projects
 
-#### 🎮 The Data Mystery — GDPR by Gamification
-- **Overview:** Educational card game simplifying GDPR Article 9 through interactive, lawful data-processing scenarios.
-- **Tech:** React, TypeScript, Vite, Tailwind CSS.
- 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emelian-chkaira/The-Data-Mystery-GDPR-by-Gamification) [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://candid-valkyrie-10dcc5.netlify.app)
+#### 🌿 [ESG Guardian](https://github.com/emelian-chkaira/ESG-Guardian-Analysis-Website) — CSRD/ESRS compliance scoring · [Live demo](https://papaya-bublanina-0721f3.netlify.app)
+Parses bank sustainability-report PDFs and runs 19 rule checks across 6 EU frameworks; scored Banco BPM's 2024 report 94.7/100. *React, TypeScript, pdf.js, rule engine, NLP.*
 
-#### 🌿 ESG Guardian — ESG Compliance Analysis
-- **Overview:** Browser-based platform validating ESG disclosures in sustainability reports using rule-based checks.
-- **Tech:** React, TypeScript, pdfjs-dist, Tailwind CSS.
- 
- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emelian-chkaira/ESG-Guardian-Analysis-Website) [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://papaya-bublanina-0721f3.netlify.app)
+#### 🎮 [The Data Mystery](https://github.com/emelian-chkaira/The-Data-Mystery-GDPR-by-Gamification) — GDPR Article 9 card game · [Play](https://candid-valkyrie-10dcc5.netlify.app)
+Card game against an AI opponent that teaches lawful processing of sensitive data, with a rule engine and guided scenarios. *React, TypeScript, Vite.*
 
- 
+#### 📊 Transactional Behaviour & RFM Analysis
+Recency-Frequency-Monetary customer segmentation with KPI dashboards. *Python, pandas, SQL.*
 
-#### 📊 Transactional Behavior & RFM Analysis
-- **Overview:** Customer segmentation and KPI analysis using transactional data for business insights.
-- **Tech:** Python, SQL, analytics workflows.
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emelian-chkaira&label=Profile%20views&color=0e75b6&style=flat-square" alt="emelian-chkaira" />
-</p> -->
+#### 🏁 CISPA Hackathon — AI & Cybersecurity (Warsaw, May 2026)
+**5th of 24 teams.** Led the Dataset Usage Cardinality Inference task on nine pre-trained ResNet models.
+
+---
+
+## 🎓 Education
+- **MSc Business Analytics** — University of Bologna, Italy (2025 – expected 2027)
+- **Artificial Intelligence Specialization** — University of Milan, Italy (2024)
+- **BSc Software Engineering** — Al-Baath University, Syria (2019 – 2023)
