@@ -1,7 +1,7 @@
 # Hi 👋, I'm Emelian Chkaira
 
-**Software Engineer · Flutter & Mobile · AI & Data** — MSc student in Business Analytics at the University of Bologna.
-📍 Bologna, Italy · relocating to the **Netherlands** · 🗣️ Arabic (native), English (B2)
+**Software Engineer · Mobile, Backend & AI** — MSc student in Business Analytics at the University of Bologna.
+📍 **Netherlands** · 🗣️ Arabic (native), English (B2)
 
 <p align="left">
   <a href="https://emelianchkaira.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0E7490?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
@@ -11,13 +11,13 @@
   <a href="https://drive.google.com/file/d/1Qi1OPAytFLLgxsQg-d86gRbhkiNNwGVV/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Oxford English Test-1D4ED8?style=for-the-badge&logo=googledrive&logoColor=white" alt="Oxford English Test" /></a>
 </p>
 
-Nearly five years of shipping production apps (10K+ users) in **Flutter**, plus **Python / FastAPI / PostgreSQL** and **React / TypeScript** for full-stack and AI work. Open to software engineering roles and internships in the Netherlands.
+5+ years of shipping mobile apps to the App Store and Google Play (10K+ users), plus **Python / FastAPI / PostgreSQL** and **React / TypeScript** for full-stack work and **LLM / vector-search** features for AI. Open to software engineering roles and internships in the Netherlands.
 
 ---
 
 ## ⭐ Featured project
 
-### 🧭 [AI Career Tracker](https://github.com/emelian-chkaira/nl-career-tracker) — open-source job-search platform
+### 🧭 [AI Career Tracker](https://github.com/emelian-chkaira/ai-career-tracker) — open-source job-search platform
 Finds jobs from employer career pages and job boards, ranks them against your profile and CV, tailors the CV per job, and moves your pipeline from your inbox.
 
 - **Hybrid search:** PostgreSQL 16 full-text (`tsvector`) fused with **pgvector HNSW** embeddings (384-d, fastembed ONNX) using Reciprocal Rank Fusion.
@@ -26,11 +26,11 @@ Finds jobs from employer career pages and job boards, ranks them against your pr
 - **CV Studio:** import PDF / Word / LaTeX, live Tectonic PDF preview, Reactive Resume integration, and reviewable suggestions for missing keywords.
 - **Stack:** FastAPI · SQLAlchemy 2 · Alembic · React 18 · TypeScript · 180+ backend tests.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emelian-chkaira/nl-career-tracker) [![Mobile app](https://img.shields.io/badge/Mobile_app-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/emelian-chkaira/nl-career-tracker-mobile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emelian-chkaira/ai-career-tracker) [![Mobile app](https://img.shields.io/badge/Mobile_app-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/emelian-chkaira/ai-career-tracker-mobile)
 
 ---
 
-## 🛠️ Languages and tools
+## 🛠️ Skills and tools
 
 <p align="left">
   <strong>Backend, Data & AI</strong><br>
@@ -56,18 +56,18 @@ Finds jobs from employer career pages and job boards, ranks them against your pr
 
 ---
 
-## 📱 Shipped products (Flutter)
+## 📱 Shipped apps and websites
 
-| App | What it does | Where | Links |
+| App | What it does | Unique tech | Links |
 |---|---|---|---|
-| **Mumayaz** | Car plates & VIP numbers marketplace with a Preview-on-Car feature (Stripe, Apple Pay, Sentry) | UAE · KSA · Jordan | [App Store](https://apps.apple.com/us/app/mumayaz/id6789906640) · [Google Play](https://play.google.com/store/apps/details?id=com.metagate.mumayaz) |
-| **S-Hub** 🏆 `10K+` | Plates & phone numbers marketplace with category and type search (Stripe, Apple Pay, Shorebird) | UAE | [App Store](https://apps.apple.com/us/app/s-hub-marketplace/id6455378185) · [Google Play](https://play.google.com/store/apps/details?id=com.metagate.splate.splate) |
-| **DriveEstate** | Property, cars & premium numbers in one bilingual app (Google Maps, Pusher chat), launched 2026 | UAE | [App Store](https://apps.apple.com/us/app/driveestate/id6786304746) · [Google Play](https://play.google.com/store/apps/details?id=com.metagate.driveestate) |
-| **Car Station** | Car rental with a driver: customer and driver apps (Mapbox, live tracking, MyFatoorah) | UAE | [Customer](https://play.google.com/store/apps/details?id=ae.metagate.carstation.user.car_station) · [Driver](https://play.google.com/store/apps/details?id=ae.metagate.carstation.driver.car_station) |
-| **Yemnzil** `10K+` | Cars & real-estate marketplace with map and search filters | Yemen | [Google Play](https://play.google.com/store/apps/details?id=com.metagate.yemnzil) |
-| **Plat** | Rare plates & VIP numbers with subscriptions, seller meetings and Stripe | UAE | [Google Play](https://play.google.com/store/apps/details?id=com.metagate.plate) |
-| **HR Portals** `1K+` | Attendance, leave and overtime for multi-organisation teams; hand-punch machine sync | Middle East | [Google Play](https://play.google.com/store/apps/details?id=com.hr_portals.hr_portal) |
-| **Sanctuary NL** | Mobile-first spa website with pricing, reviews, map and WhatsApp booking (WordPress) | Netherlands | [sanctuarys.nl](https://sanctuarys.nl) |
+| **Tarouq** 🆕 | Live poetry dialogues (muhawara) with a generated virtual audience | Socket.IO · Redis · Python audio service (librosa, FFmpeg) · push | [Case study](https://metagate.ae/portfolio/tarouq) · [tarouq.com](https://tarouq.com) |
+| **S-Hub** 🏆 `10K+` | Plates & phone numbers marketplace | Stripe · Apple Pay · Shorebird code push · CI/CD | [Case study](https://metagate.ae/portfolio/s-hub) |
+| **Yemnzil** `10K+` | Cars & real-estate marketplace | Google Maps · caching · automatic photo watermarking · Crashlytics | [Case study](https://metagate.ae/portfolio/yemnzil) |
+| **Mumayaz** | Premium numbers marketplace | Tamara pay later · Sentry · Hive storage · Meta & TikTok events · ATT | [Case study](https://metagate.ae/portfolio/mumayaz) |
+| **DriveEstate** | Property, cars & numbers in one app | Pusher real-time chat · video listings · geolocation | [Case study](https://metagate.ae/portfolio/driveestate) |
+| **Car Station** | Car rental marketplace, customer and driver apps | Mapbox · live driver tracking · Firebase Realtime DB · MyFatoorah · deep links | [Case study](https://metagate.ae/portfolio/car-station) |
+| **HR Portals** `1K+` | Attendance and leave for multi-organisation teams | Hand-punch machine sync | [Google Play](https://play.google.com/store/apps/details?id=com.hr_portals.hr_portal) |
+| **Sanctuary NL** | Spa website with reviews and WhatsApp booking (WordPress) | SEO · reviews · WhatsApp booking | [sanctuarys.nl](https://sanctuarys.nl) |
 
 ---
 
@@ -83,11 +83,11 @@ Card game against an AI opponent that teaches lawful processing of sensitive dat
 Recency-Frequency-Monetary customer segmentation with KPI dashboards. *Python, pandas, SQL.*
 
 #### 🏁 CISPA Hackathon — AI & Cybersecurity (Warsaw, May 2026)
-**5th of 24 teams.** Led the Dataset Usage Cardinality Inference task on nine pre-trained ResNet models.
+**5th of 24 teams.** Led Task 1: inferred the training-data proportion of nine pre-trained ResNet models. [LinkedIn post](https://lnkd.in/p/egmXnF-f)
 
 ---
 
 ## 🎓 Education
 - **MSc Business Analytics** — University of Bologna, Italy (2025 – expected 2027)
 - **Artificial Intelligence Specialization** — University of Milan, Italy (2024)
-- **BSc Software Engineering** — Al-Baath University, Syria (2019 – 2023)
+- **BSc Computer Science** — Al-Baath University, Syria (2019 – 2023)
