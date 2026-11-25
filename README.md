@@ -18,7 +18,7 @@
 
 <a href="https://github.com/emelian-chkaira/The-Data-Mystery-GDPR-by-Gamification"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-gdpr-dark.svg"><img src="assets/project-gdpr-light.svg" width="100%" alt="The Data Mystery: GDPR learning through a card game"></picture></a>
 
-[Mobile app](https://github.com/emelian-chkaira/ai-career-tracker-mobile) · [ESG Guardian live demo](https://papaya-bublanina-0721f3.netlify.app) · [Play The Data Mystery](https://candid-valkyrie-10dcc5.netlify.app)
+[AI Career Tracker live demo](https://ai-career-tracker-gmwn.onrender.com) (Render and Neon Postgres, CI with GitHub Actions) · [Mobile app](https://github.com/emelian-chkaira/ai-career-tracker-mobile) · [ESG Guardian live demo](https://papaya-bublanina-0721f3.netlify.app) · [Play The Data Mystery](https://candid-valkyrie-10dcc5.netlify.app)
 
 ## Apps and sites I shipped
 
