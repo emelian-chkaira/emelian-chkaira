@@ -14,11 +14,11 @@
 
 <a href="https://github.com/emelian-chkaira/ai-career-tracker"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-career-dark.svg"><img src="assets/project-career-light.svg" width="100%" alt="AI Career Tracker: Open-source job-search platform"></picture></a>
 
-<a href="https://github.com/emelian-chkaira/ESG-Guardian-Analysis-Website"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-esg-dark.svg"><img src="assets/project-esg-light.svg" width="100%" alt="ESG Guardian: CSRD / ESRS compliance scoring"></picture></a>
+<a href="https://github.com/emelian-chkaira/albert-heijn-analytics-study"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-retail-dark.svg"><img src="assets/project-retail-light.svg" width="100%" alt="Albert Heijn Analytics Study: unofficial open-source retail analytics study on simulated sales"></picture></a>
 
 <a href="https://github.com/emelian-chkaira/The-Data-Mystery-GDPR-by-Gamification"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-gdpr-dark.svg"><img src="assets/project-gdpr-light.svg" width="100%" alt="The Data Mystery: GDPR learning through a card game"></picture></a>
 
-[AI Career Tracker live demo](https://ai-career-tracker-gmwn.onrender.com) (Render and Neon Postgres, CI with GitHub Actions) · [Mobile app](https://github.com/emelian-chkaira/ai-career-tracker-mobile) · [ESG Guardian live demo](https://papaya-bublanina-0721f3.netlify.app) · [Play The Data Mystery](https://candid-valkyrie-10dcc5.netlify.app)
+[AI Career Tracker live demo](https://ai-career-tracker-gmwn.onrender.com) (Render and Neon Postgres, CI with GitHub Actions) · [Mobile app](https://github.com/emelian-chkaira/ai-career-tracker-mobile) · [Retail study live demo](https://albert-heijn-analytics-study.onrender.com) · [Infographic](https://emelian-chkaira.github.io/albert-heijn-analytics-study/) · [Play The Data Mystery](https://candid-valkyrie-10dcc5.netlify.app)
 
 ## Apps and sites I shipped
 
